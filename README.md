@@ -28,7 +28,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a></un>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=fluuter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a></un>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a></un>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=.net&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/.net.svg'> </a></un>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a></un>
 
 
 
