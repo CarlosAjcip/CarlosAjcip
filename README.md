@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently a student
   
-- 🌱 I’m currently learning C# y Flutter
+- 🌱 I’m currently learning C# y PHP
   
 - 👯 I’m looking to collaborate on Proyectos
   
