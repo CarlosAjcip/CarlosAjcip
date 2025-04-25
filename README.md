@@ -10,13 +10,14 @@
 
 
 
-- 🔭 I’m currently a student
-  
-- 🌱 I’m currently learning C# y PHP
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql Server,Oracle,MySql
+🔭 Actualmente soy estudiante
+
+🌱 Actualmente estoy aprendiendo C# y PHP
+
+👯 Estoy buscando colaborar en proyectos
+
+💬 Pregúntame sobre SQL Server, Oracle, MySQL
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a></un>
@@ -26,10 +27,6 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a></un>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a></un>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a></un>
-<a href="https://laravel.com" target="_blank">
-  <img width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel"/>
-</a>
-</un>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a></un>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a></un>
 
